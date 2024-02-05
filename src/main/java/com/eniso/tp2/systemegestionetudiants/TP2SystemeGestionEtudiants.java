@@ -20,9 +20,11 @@ public class TP2SystemeGestionEtudiants {
         s.afficherEtudiant();
         s.modifierEmailEtudiant(148652, "ranim@gmail.com");
         s.afficherEtudiant();
-        s.supprimerEtudiant(0);
+        s.supprimerEtudiant(148652);
         s.afficherEtudiant();
-        
+        livre livreroua = new livre();
+        livre livreazert = new livre ("miracle" , "Yassine"); 
+        livre livreMohamed = new livre ("abc","cvb");
         
     }
 }
