@@ -1,0 +1,6 @@
+question supplementaire :
+
+
+Non. Si les attributs de la classe Étudiant sont déclarés comme publics.
+Il n'est pas nécessaire de créer des méthodes getters et setters pour y accéder et les modifier
+car ils peuvent être directement manipulés à partir de l'extérieur de la classe
